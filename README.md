@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Vanshikagoyal25/Vanshikagoyal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+[![@utkarsh5474's Holopin board](https://holopin.io/api/user/board?user=utkarsh5474)](https://holopin.io/@utkarsh5474)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vanshikagoyal25&show_icons=true&locale=en" alt="Vanshikagoyal25" /></p>
+<p>&nbsp;<img align="center" src="https://stats.quine.sh/Vanshikagoyal25/github?theme=dark" alt="Vanshikagoyal25" /></p>
+<p>&nbsp;<img align="center" src="https://stats.quine.sh/Vanshikagoyal25/languages-over-time?theme=dark" alt="Vanshikagoyal25" /></p>
+<p>&nbsp;<img align="center" src="https://stats.quine.sh/Vanshikagoyal25/topics-over-time?theme=dark" alt="Vanshikagoyal25" /></p>
