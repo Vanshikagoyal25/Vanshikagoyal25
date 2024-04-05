@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-[![@utkarsh5474's Holopin board](https://holopin.io/api/user/board?user=utkarsh5474)](https://holopin.io/@utkarsh5474)
+[![An image of @vanshikagoyal25's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshikagoyal25)](https://holopin.io/@vanshikagoyal25)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vanshikagoyal25&show_icons=true&locale=en" alt="Vanshikagoyal25" /></p>
 <p>&nbsp;<img align="center" src="https://stats.quine.sh/Vanshikagoyal25/github?theme=dark" alt="Vanshikagoyal25" /></p>
